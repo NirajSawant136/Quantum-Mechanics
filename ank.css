@@ -1,0 +1,30 @@
+body{
+	background:#1c1919;
+	text-align: center;
+}
+@font-face{
+	src:url('AdventPro-SemiBold.ttf');
+	font-family: Advent;
+}
+@font-face{
+	src:url('Montserrat-Regular.ttf');
+	font-family: Monst;
+}
+h1{
+	 color: #7FE4AF;
+	 font-family: Advent;
+	 font-size: 6vh
+}
+h2{
+	 color: #7FE4AF;
+	 font-family: Advent;
+	 font-size: 4.5vh
+}
+p{
+	color: #CACACA;
+	text-align: justify;
+	padding: 50px 50px;
+	font-size: 1.2vh;
+	font-family: Monst;
+	word-spacing: 5px;
+}
